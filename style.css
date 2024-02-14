@@ -42,16 +42,15 @@ body {
 }
 
 .btn {
+  
   display: flex;
   justify-content: center;
   align-items: center;
   margin: 10px;
   padding: 10px;
-  width: 30px;
-  height: 40px; 
   border-radius: 5px;
   border: none;
-  background-color: white;
+  background-color: rgb(255, 255, 255);
   cursor: pointer;
 }
 .option-item {
